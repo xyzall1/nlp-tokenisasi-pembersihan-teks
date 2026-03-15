@@ -31,4 +31,5 @@ Notebook menganalisis paragraf tentang **populisme di Amerika Serikat dan Eropa 
 
 ## 📄 Lisensi
 
-MIT (atau sesuaikan dengan kebutuhan Anda)
+Telom University Purwokerto
+
